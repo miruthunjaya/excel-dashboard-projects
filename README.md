@@ -20,7 +20,7 @@ These dashboards are built for:
 ## 🔐 Excel Files Privacy
 
 All Excel dashboards are **private** to protect original design and data formatting.  
-📩 **Want to view a specific dashboard? Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/your-profile)** for access or a live demo.
+📩 **Want to view a specific dashboard? Feel free to contact me via [LinkedIn]([https://www.linkedin.com/in/miruthunjaya2005/])** for access or a live demo.
 
 ---
 
